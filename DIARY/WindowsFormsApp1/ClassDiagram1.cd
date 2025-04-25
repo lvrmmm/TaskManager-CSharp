@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp1.Program">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Users">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAEAAAAIAEAAAAAEAAAQBAAAAAgAAAAIAAAgA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="userTask" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApp1.Users_Task">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAAQAAAAEIAAAACAAAAAAACAAAEEAAABBAAA=</HashCode>
+      <FileName>Users_Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Log_in" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAAAACAAABBIAATAAkQCEEAgAAAABAAAAQBAAAA=</HashCode>
+      <FileName>Log_in.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Sign_up" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIJAAACAAQhAAAADAABQCEAAAAAAABAAAAABAAAA=</HashCode>
+      <FileName>Sign_up.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Newtask" Collapsed="true">
+    <Position X="12" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhEAACAIABAAAADBEAACAAAAAAAAAAAAEwAAAgA=</HashCode>
+      <FileName>Newtask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Plan" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAjCEACKMABAIBAKBEDACABgCBgABAAAAMaBjAoA=</HashCode>
+      <FileName>Plan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

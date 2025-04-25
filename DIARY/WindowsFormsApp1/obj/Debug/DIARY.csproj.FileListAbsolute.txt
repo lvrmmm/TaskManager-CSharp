@@ -1,0 +1,150 @@
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\DIARY.csproj.AssemblyReference.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Plan.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Log_in.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Newtask.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\DIARY.csproj.GenerateResource.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\DIARY.csproj.CoreCompileInputs.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\Planner\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.AssemblyReference.cache
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Plan.resources
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Log_in.resources
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Newtask.resources
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up.resources
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.GenerateResource.cache
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.CoreCompileInputs.cache
+C:\Users\shush\OneDrive\Рабочий стол\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.CopyComplete
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.AssemblyReference.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Plan.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Log_in.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Newtask.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.GenerateResource.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.CoreCompileInputs.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\проверка\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.Up2Date
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.AssemblyReference.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Plan.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Log_in.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Newtask.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.GenerateResource.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.CoreCompileInputs.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.Up2Date
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\ДЗ ООП\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.AssemblyReference.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Plan.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Log_in.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Newtask.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sign_up.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.GenerateResource.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.CoreCompileInputs.cache
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\DIARY.csproj.Up2Date
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lvrmm\OneDrive\Рабочий стол\111\ДЗ ООП\DIARY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
